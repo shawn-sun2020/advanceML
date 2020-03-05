@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
-from lstm import *
+from lstm_testing import *
 import tensorflow as tf
 import numpy as np
 
